@@ -1,0 +1,36 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Th.S Nguyen Van Lanh">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10883</md:content-id>
+    <md:title>Lập trình Java cơ bản</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>8245979d-3dce-4621-899d-f1299b45fb8c</md:uuid>
+<md:slug>lap-trinh-java-co-ban</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Giới thiệu chung về Java</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Java cơ bản</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Lập trình hướng đối tượng</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Interface và Package</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Xử lý lỗi - ngoại lệ</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Nhập xuất trong Java</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
